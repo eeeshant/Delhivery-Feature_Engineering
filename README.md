@@ -1,2 +1,27 @@
-# Delhivery-Feature_Engineering
-Logistics analytics project involving feature engineering, EDA, and hypothesis testing on Delhivery operational data.
+# Delhivery Feature Engineering
+
+## Project Overview
+This project analyzes Delhivery's logistics and shipment operations data to identify delivery bottlenecks, evaluate shipment performance, and engineer features for future predictive modeling.
+
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SciPy
+- Google Colab
+
+## Key Highlights
+- Performed data cleaning and outlier treatment
+- Conducted exploratory data analysis (EDA)
+- Engineered temporal and geographical features
+- Aggregated shipment-level records into trip-level observations
+- Applied hypothesis testing and statistical analysis
+- Generated business recommendations for delivery optimization
+
+## Files
+- Business_Case_Delhivery_Feature_Engineering.pdf
+
+## LinkedIn Post
+Paste your LinkedIn project post URL here
