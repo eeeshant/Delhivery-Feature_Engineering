@@ -24,4 +24,4 @@ This project analyzes Delhivery's logistics and shipment operations data to iden
 - Business_Case_Delhivery_Feature_Engineering.pdf
 
 ## LinkedIn Post
-Paste your LinkedIn project post URL here
+(https://www.linkedin.com/posts/eeeshant-chettry_dataanalytics-dataanalyst-python-ugcPost-7468963989759377408-oFjv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADFEkpsBh-EQ1LsJtcQqvGeYqNDkegqV_QQ)
